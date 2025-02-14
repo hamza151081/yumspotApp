@@ -1,0 +1,158 @@
+{
+  "project_info": {
+    "project_number": "1058981019015",
+    "project_id": "yum-spot-hjl93d",
+    "storage_bucket": "yum-spot-hjl93d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058981019015:android:8be0c33e5a753dfd9a2722",
+        "android_client_info": {
+          "package_name": "fr.mycompany.yumspot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058981019015-epu1rogef6mbst6lf5dl4q62e95ip51g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fr.mycompany.yumspot",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "1058981019015-h77lhrpd7j1ecgg4qhe8l5uu8jrn2sef.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fr.mycompany.yumspot",
+            "certificate_hash": "37e1d04164f3c0199b66c4092280426e2bddcff7"
+          }
+        },
+        {
+          "client_id": "1058981019015-f7q07nnqj0etairpvsf1b0ivqqspmvou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDNKxy45aOx6KJTlvOXG0TyuzMvddW7-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058981019015-f7q07nnqj0etairpvsf1b0ivqqspmvou.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1058981019015-1l1cmvpuh0ta1d4suqrojfn6tr4d75lm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.yumspot"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058981019015:android:06b5f400d9a238ca9a2722",
+        "android_client_info": {
+          "package_name": "fr.yumspot.frfr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058981019015-2bhqf3ugvhgeabkaqcdgv1o53ptbnuer.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fr.yumspot.frfr",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "1058981019015-f7q07nnqj0etairpvsf1b0ivqqspmvou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDNKxy45aOx6KJTlvOXG0TyuzMvddW7-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058981019015-f7q07nnqj0etairpvsf1b0ivqqspmvou.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1058981019015-1l1cmvpuh0ta1d4suqrojfn6tr4d75lm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.yumspot"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058981019015:android:aacfe67b7c5f131a9a2722",
+        "android_client_info": {
+          "package_name": "fr.yumspot.yumspot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058981019015-lktnri14g0jucg16rhl575ccvrsac6ot.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fr.yumspot.yumspot",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "1058981019015-m2alnffrrvne4rvahd94tbtk57k9js9q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fr.yumspot.yumspot",
+            "certificate_hash": "358cb6caec11157e4510152c700507c889e5a353"
+          }
+        },
+        {
+          "client_id": "1058981019015-f7q07nnqj0etairpvsf1b0ivqqspmvou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDNKxy45aOx6KJTlvOXG0TyuzMvddW7-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058981019015-f7q07nnqj0etairpvsf1b0ivqqspmvou.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1058981019015-1l1cmvpuh0ta1d4suqrojfn6tr4d75lm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.yumspot"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
